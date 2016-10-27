@@ -31,6 +31,7 @@ public class MesesIf {
 			} 
 			if(m==7){
 				System.out.println("Julio");
+				
 			} 
 			if(m==8){
 				System.out.println("Agosto");
